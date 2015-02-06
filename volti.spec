@@ -1,6 +1,6 @@
 Name:		volti
 Version:	0.2.3
-Release:	3
+Release:	4
 Summary:	GTK+ app for controlling audio volume from system tray/notification area
 License:	GPLv3
 Group:		Sound
