@@ -4,7 +4,7 @@ Release:	4
 Summary:	GTK+ app for controlling audio volume from system tray/notification area
 License:	GPLv3
 Group:		Sound
-URL:		http://code.google.com/p/volti/
+URL:		https://code.google.com/p/volti/
 Source0:	http://code.google.com/p/volti/%{name}-%{version}.tar.xz
 BuildArch:	noarch
 
